@@ -6,7 +6,7 @@
 
 - Back-end development
 
-  [![My Skills](https://skillicons.dev/icons?i=nodejs,express,py,fastapi&perline=5)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=nodejs,express,py,fastapi,php&perline=5)](https://skillicons.dev)
 
 - Database
 
