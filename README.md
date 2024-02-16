@@ -10,7 +10,7 @@
 
 - Database
 
-  [![My Skills](https://skillicons.dev/icons?i=mongodb&perline=5)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql&perline=5)](https://skillicons.dev)
 
 - Machine learning / Deep learning and data analysis
 
