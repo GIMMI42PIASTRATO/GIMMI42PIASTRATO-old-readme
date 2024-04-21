@@ -2,7 +2,7 @@
 
 - Front-end development
 
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,styledcomponents&perline=5)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,styledcomponents&perline=10)](https://skillicons.dev)
 
 - Back-end development
 
@@ -23,8 +23,6 @@
 - Shell Scripting and Automation
 
   [![My Skills](https://skillicons.dev/icons?i=bash,powershell&perline=5)](https://skillicons.dev)
-  
-<hr>
 
 ## Certificates
 
